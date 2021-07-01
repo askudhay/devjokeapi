@@ -1,0 +1,14 @@
+{
+  "name": "devjokeapi",
+  "version": "1.0.0",
+  "description": "Node.js API to get and post Dev Jokes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Udhay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "unirest": "^0.6.0"
+  }
+}
